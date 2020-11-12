@@ -7,12 +7,21 @@
 
 # Einrichten auf der Firebase-Konsole
 1.	Klicken Sie auf Projekt hinzufügen
+
+![](Tutorial%20Pictures/Pic1.png)
+
 2.	Geben Sie dem Projekt einen Namen und folgen den Anweisungen auf der Website
 3.	Projekt wurde erstellt!
 
 # Registrieren der App bei Firebase
 1.	Klicken Sie auf das iOS-Symbol in der Konsole
+
+![](Tutorial%20Pictures/Pic2.png)
+
 2.	Tragen Sie „com.opitz-consulting.opitzchat.OpitzChat“ als ID ein und klicken Sie auf „App registrieren“.
+
+![](Tutorial%20Pictures/Pic3.png)
+
 3.	Schritt 2 - 4 auf der Firebase-Seite können Sie überspringen, da in unseren Projekt bereits die nötigen Dateien vorhanden sind.
 4.	Fertig! Die App wurde bei Firebase registriert!
 
