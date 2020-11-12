@@ -1,6 +1,6 @@
 # baas-demo - Quickstarter Google Firebase Chat App
 
-#Voraussetzungen:
+# Voraussetzungen:
 •	Xcode 11.0 oder höher
 •	CocoaPods 1.9.0 oder höher
 •	Firebase Account
